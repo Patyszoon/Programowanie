@@ -1,3 +1,0 @@
-D:/Informatyka/Studia/ProgramowanieObiektowe/tablica/cmake-build-debug/CMakeFiles/tablica.dir
-D:/Informatyka/Studia/ProgramowanieObiektowe/tablica/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/Informatyka/Studia/ProgramowanieObiektowe/tablica/cmake-build-debug/CMakeFiles/rebuild_cache.dir
